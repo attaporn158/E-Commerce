@@ -4,17 +4,6 @@
     box-sizing: border-box;
 }
 
-body{
-    /* background-color: skyblue; */
-}
-
-header{
-    /* background-color: skyblue;
-    color: #fff;
-    padding: 35px;
-    text-align: center; */
-}
-
 
 .header {
     display: flex;
